@@ -33,20 +33,18 @@ Start with basic syntax, loops, and data structures — then move toward file ha
 
 ## 🚀 Sessions — ICodeGuru × WPBrigade
 
-Add your sessions below 👇
 
 | Session | Topics Covered                                        | YouTube Link | Colab File |
 | ------- | ----------------------------------------------------- | ------------ | ---------- |
 | 1       | Introduction to Python — setup, variables, data types | [Watch](#)   | [Open](#)  |
-| 2       | For & While Loops + Lists                             | [Watch](#)   | [Open](#)  |
-| 3       | Sets, Tuples, Strings & Dictionaries                  | [Watch](#)   | [Open](#)  |
+| 2       | For & While Loops + Lists                             | [Watch](https://www.youtube.com/watch?v=eGpGb2o2fnE&t=8s)   | [Open](https://colab.research.google.com/drive/1Ur9AFum84S3vuGxXUHxkx3CJrRSnB22Z#scrollTo=meTYsqH9Cuen)  |
+| 3       | Sets, Tuples, Strings & Dictionaries                  | [Watch](https://www.youtube.com/watch?v=f5-fw6gOocw&t=58s)   | [Open](https://colab.research.google.com/drive/1-vwxF7zAKcjh0Vp1nNjpOELeEDLKE7K9?usp=sharing)  |
 | 4       | _(Add next session here)_                             | [Watch](#)   | [Open](#)  |
 
 ---
 
 ## 🏫 Sessions — University of Sargodha (UOS)
 
-Add your sessions below 👇
 
 | Session | Topics Covered                                              | YouTube Link | Colab File |
 | ------- | ----------------------------------------------------------- | ------------ | ---------- |
@@ -71,21 +69,10 @@ Add your sessions below 👇
 
 👨‍💻 **Muhammad Aqib Javed**
 
-- 🌐 [LinkedIn](#)
-- 💻 [GitHub](https://github.com/yourusername)
-- 🎥 [YouTube Channel](#)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/maqibjaved/)
+- 💻 [GitHub](https://github.com/AqibNiazi)
+- 🎥 [YouTube Channel](https://www.youtube.com/@AqibTechAcademy)
 
 > “Keep learning, keep coding — small steps lead to big achievements!”
-
----
-
-## ✨ How to Update
-
-Whenever a new lecture is uploaded:
-
-1. Copy a row from the table above.
-2. Paste it as a new line under the correct section (**ICodeGuru × WPBrigade** or **UOS**).
-3. Replace the `#` with your **YouTube** and **Colab** links.
-4. Commit and push the updated `README.md` — done! ✅
 
 ---
