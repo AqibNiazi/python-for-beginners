@@ -1,17 +1,4 @@
-# 🐍 Python for Beginners
-
-Welcome to the **Python for Beginners** course repository by **Muhammad Aqib Javed**.  
-This repository tracks my **Python teaching sessions** delivered in collaboration with **ICodeGuru × WPBrigade** and at the **University of Sargodha (UOS)**.
-
-Each lecture includes:
-
-- 🎥 YouTube recording link
-- 📓 Google Colab notebook
-- 📝 Key topics covered
-
-> 🎯 Ideal for **students and beginners in Pakistan** who want to learn Python step-by-step through practical examples.
-
----
+# 🐍 Python for absolute Beginners
 
 ## 📑 Table of Contents
 
@@ -48,10 +35,9 @@ Start with basic syntax, loops, and data structures — then move toward file ha
 
 | Session | Topics Covered                                              | YouTube Link | Colab File |
 | ------- | ----------------------------------------------------------- | ------------ | ---------- |
-| 1       | Python Fundamentals — operators, input/output, conditionals | [Watch](#)   | [Open](#)  |
-| 2       | Loops and Lists                                             | [Watch](#)   | [Open](#)  |
-| 3       | Dictionaries, Tuples & Sets                                 | [Watch](#)   | [Open](#)  |
-| 4       | _(Add next session here)_                                   | [Watch](#)   | [Open](#)  |
+| 1       | For & while Loop                                            | [Watch](https://youtu.be/3IUsHqoBwQM)   | [Open](https://colab.research.google.com/drive/1XPafGeCMrc4mqVSKezEHgQYavVcqNBgT?usp=sharing)  |
+| 2       | coming soon                                                 | [Watch](#)   | [Open](#)  |
+
 
 ---
 
