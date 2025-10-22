@@ -5,9 +5,8 @@
 1. [📘 Course Overview](#-course-overview)
 2. [🚀 Sessions — ICodeGuru × WPBrigade](#-sessions--icodeguru--wpbrigade)
 3. [🏫 Sessions — University of Sargodha (UOS)](#-sessions--university-of-sargodha-uos)
-4. [🧩 Upcoming Topics](#-upcoming-topics)
-5. [🤝 Connect with Me](#-connect-with-me)
-6. [✨ How to Update](#-how-to-update)
+4. [🤝 Connect with Me](#-connect-with-me)
+
 
 ---
 
@@ -36,18 +35,8 @@ Start with basic syntax, loops, and data structures — then move toward file ha
 | Session | Topics Covered                                              | YouTube Link | Colab File |
 | ------- | ----------------------------------------------------------- | ------------ | ---------- |
 | 1       | For & while Loop                                            | [Watch](https://youtu.be/3IUsHqoBwQM)   | [Open](https://colab.research.google.com/drive/1XPafGeCMrc4mqVSKezEHgQYavVcqNBgT?usp=sharing)  |
-| 2       | coming soon                                                 | [Watch](#)   | [Open](#)  |
+| 2       | Break & continue, List                                      | [Watch](https://www.youtube.com/live/8irevNpQQjo)   | [Open](https://colab.research.google.com/drive/1XPafGeCMrc4mqVSKezEHgQYavVcqNBgT?usp=sharing)  |
 
-
----
-
-## 🧩 Upcoming Topics
-
-- Functions in Python
-- File Handling
-- Error & Exception Handling
-- Object-Oriented Programming (OOP)
-- NumPy and Pandas for Data Analysis
 
 ---
 
