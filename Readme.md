@@ -36,7 +36,7 @@ This series is designed for **absolute beginners** who want to master Python fro
 | 1       | For & while Loop                                            | [Watch](https://youtu.be/3IUsHqoBwQM)   | [Open](https://colab.research.google.com/drive/1XPafGeCMrc4mqVSKezEHgQYavVcqNBgT?usp=sharing)  |
 | 2       | Break & continue, List                                      | [Watch](https://www.youtube.com/live/8irevNpQQjo)   | [Open](https://colab.research.google.com/drive/1XPafGeCMrc4mqVSKezEHgQYavVcqNBgT?usp=sharing)  |
 | 3       | Python Dictionaries                                         | [Watch](https://youtu.be/5cwQJvSsuOw)   | [Open](https://colab.research.google.com/drive/1-vwxF7zAKcjh0Vp1nNjpOELeEDLKE7K9?usp=sharing)  |
-| 4       | Tuples & Sets                                       v       | [Watch](https://youtu.be/scfxKwCkn_M)   | [Open](https://colab.research.google.com/drive/1oVITCEUCF6anpZ4AFY8srqHlvUvDCro9?usp=sharing)  |
+| 4       | Tuples & Sets                                               | [Watch](https://youtu.be/scfxKwCkn_M)   | [Open](https://colab.research.google.com/drive/1oVITCEUCF6anpZ4AFY8srqHlvUvDCro9?usp=sharing)  |
 
 
 ---
